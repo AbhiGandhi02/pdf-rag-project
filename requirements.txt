@@ -1,0 +1,8 @@
+langchain
+langchain-community
+pypdf
+langchain-openai  # Or langchain-google-genai, etc.
+chromadb          # Our vector store
+python-dotenv     # For managing API keys
+langchain-huggingface
+sentence-transformers
